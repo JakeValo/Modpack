@@ -1,5 +1,7 @@
-New mudpack
+New modpack
 - Mostly adventure based
 - Quests and Skill system coming soon
 
-Please report bugs to comments
+Please report bugs, inconsistencies and crashed to comments
+Updates will come.
+
