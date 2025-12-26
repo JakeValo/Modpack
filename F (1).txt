@@ -1,11 +1,15 @@
-New Modpack
-- Mostly adventure based
-- Quests and Skill system coming soon
+New Additions:
+- Inventory Sort addition
+- More villager jobs, trades, blocks for workstations
+- Illager additions including
+  - Illage And Spillage
+  - Illager Warships 
+  - Raid Music
+- New overworld beasts added 
+- Legendary Monsters Weapons Compat
+- Aether Dimension
+- Parcool
 
-Please report bugs, inconsistencies and crashes to comments
-Updates will come, I hope the best.
-
-Made by, JujuCAKES
 
 
 
