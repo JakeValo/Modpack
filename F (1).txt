@@ -1,4 +1,5 @@
 New Additions:
+
 - Inventory Sort addition
 - More villager jobs, trades, blocks for workstations
 - Illager additions including
@@ -9,10 +10,12 @@ New Additions:
 - Legendary Monsters Weapons Compat
 - Aether Dimension
 - Parcool
+
 To Come:
 - Weapon and mobs balance tweaks
 - Structure occurance tweaks
 - Quests
+
 
 
 
