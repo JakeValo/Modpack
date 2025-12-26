@@ -5,7 +5,7 @@ New Additions:
   - Illage And Spillage
   - Illager Warships 
   - Raid Music
-- New overworld beasts added 
+- Improved textures and visuals
 - Legendary Monsters Weapons EpicFight Compat
 - Aether Dimension
 - Parcool (Fast run, Wall run & Dodge disabled)
@@ -15,6 +15,7 @@ To Come:
 - Weapon and mobs balance tweaks
 - Story book + Guide book
 - Quests
+
 
 
 
