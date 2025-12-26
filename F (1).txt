@@ -9,6 +9,11 @@ New Additions:
 - Legendary Monsters Weapons Compat
 - Aether Dimension
 - Parcool
+To Come:
+- Weapon and mobs balance tweaks
+- Structure occurance tweaks
+- Quests
+
 
 
 
