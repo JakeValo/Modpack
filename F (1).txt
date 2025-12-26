@@ -1,5 +1,4 @@
 New Additions:
-
 - Inventory Sort addition
 - More villager jobs, trades, blocks for workstations
 - Illager additions including
@@ -7,14 +6,16 @@ New Additions:
   - Illager Warships 
   - Raid Music
 - New overworld beasts added 
-- Legendary Monsters Weapons Compat
+- Legendary Monsters Weapons EpicFight Compat
 - Aether Dimension
-- Parcool
+- Parcool (Fast run, Wall run & Dodge disabled)
+- New boss fights and boss tweaks
 
 To Come:
 - Weapon and mobs balance tweaks
-- Structure occurance tweaks
+- Story book + Guide book
 - Quests
+
 
 
 
