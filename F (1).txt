@@ -1,20 +1,17 @@
-New Additions:
-- Inventory Sort addition
-- More villager jobs, trades, blocks for workstations
-- Illager additions including
-  - Illage And Spillage
-  - Illager Warships 
-  - Raid Music
-- Improved textures and visuals
-- Legendary Monsters Weapons EpicFight Compat
-- Aether Dimension
-- Parcool (Fast run, Wall run & Dodge disabled)
-- New boss fights and boss tweaks
+Welcome to my modpack!
 
+This modpack features things such as:
+- Mob and player animations from EpicFight mod & Fresh animations
+- Parcool compatibility (Fast run disabled for balancing)
+- Many bosses and boss tweaks
+- Lots of structures for you to explore and each one tweaked for a good experience
+- Souls-like combat system
+- Much more 
 To Come:
 - Weapon and mobs balance tweaks
 - Story book + Guide book
 - Quests
+
 
 
 
