@@ -1,22 +1,11 @@
-Welcome to my modpack!
 
-This modpack features things such as:
-- Mob and player animations from EpicFight mod & Fresh animations
-- Parcool compatibility (Fast run disabled for balancing)
-- Many bosses and boss tweaks
-- Lots of structures for you to explore and each one tweaked for a good experience
-- Souls-like combat system
-- Much more 
-To Come:
-- Weapon and mobs balance tweaks
-- Story book + Guide book
-- Quests
+INSTRUCTIONS READ:
+- Test all boss fights and make sure they're balanced, also check out some of the weapons and make sure they're balanced aswell, not too strong, but not too weak.
+  - When you load into a world, press esc, on the bottom left will be a list of all the bosses in the game.
+- If you find that some of the bosses were too weak or too strong, note it down, same goes with weapons.
+- Walk around the world and look for any glitches / oddities. This can include:
+  - Cut terrain
+  - Random places where performance is affected heavily
+  - Chunks not loading
 
-
-
-
-
-
-
-
-
+If you come across any issues while testing, inform me.
