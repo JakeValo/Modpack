@@ -7,7 +7,8 @@ INSTRUCTIONS READ:
   - If a boss is early game but can only be beaten with a late game weapon, it's also imbalanced.
   - Bosses have to be balanced, matched early-game and matched late-game.
 - If you find that some of the bosses were too weak or too strong, note it down, same goes with weapons.
-= Find any imbalances in the game at all.
+- Also list tier bosses from early-mid-late game.
+- Find any imbalances in the game at all.
 - Walk around the world and look for any glitches / oddities. This can include:
   - Cut terrain
   - Random places where performance is affected heavily, hard stuttered, franed drops, etc.
@@ -15,5 +16,6 @@ INSTRUCTIONS READ:
 
 If you come across any issues while testing, inform me. 
 Any extra ideas is also appreciated.
+
 
 
